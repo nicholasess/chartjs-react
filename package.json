@@ -16,8 +16,8 @@
     "url": "https://github.com/jerairrest/react-chartjs-2/issues"
   },
   "dependencies": {
-    "lodash": "^4.17.4",
-    "prop-types": "^15.5.8"
+    "lodash": "^4.17.21",
+    "prop-types": "^15.6.2"
   },
   "devDependencies": {
     "@kadira/storybook": "^2.35.3",
